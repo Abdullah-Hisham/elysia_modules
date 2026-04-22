@@ -1,0 +1,16 @@
+# Source & dev
+src/
+example/
+tsconfig.json
+tsup.config.ts
+.eslintrc*
+.prettierrc*
+.github/
+*.test.ts
+*.spec.ts
+__tests__/
+
+# Misc
+.DS_Store
+*.log
+node_modules/
