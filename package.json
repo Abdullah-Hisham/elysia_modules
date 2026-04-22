@@ -41,16 +41,16 @@
     "providers",
     "typescript"
   ],
-  "author": "",
+  "author": "Abdullah Hisham",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/YOUR_USERNAME/elysia-modules"
+    "url": "https://github.com/Abdullah-Hisham/elysia_modules"
   },
   "bugs": {
-    "url": "https://github.com/YOUR_USERNAME/elysia-modules/issues"
+    "url": "https://github.com/Abdullah-Hisham/elysia_modules/issues"
   },
-  "homepage": "https://github.com/YOUR_USERNAME/elysia-modules#readme",
+  "homepage": "https://github.com/Abdullah-Hisham/elysia_modules#readme",
   "peerDependencies": {
     "elysia": ">=1.0.0",
     "zod": ">=3.0.0"
